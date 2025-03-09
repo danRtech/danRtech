@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on building up a Shopify app.
-- 🌱 I’m currently learning about how to build Microservices with Spring Boot, add them into Docker containers and deploy on AWS.
-- 📫 How to reach me: www.linkedin.com/in/danilru  
+- 🚀 I’m currently working on a Shopify app.
+- 🌱 I'm practicing to build Microservices with Spring Boot, containerize them with Docker, and deploy on AWS.
+- 💬 How to reach me: www.linkedin.com/in/danilru  
 <!--
 **danRtech/danRtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
