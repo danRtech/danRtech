@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🚀 I’m currently working on a Shopify app.
+- 🚀 I’m currently working on a Shopify app that utilises an OpenAI api.
 - 🌱 I'm practicing building Microservices with Spring Boot, containerize them with Docker, and deploy on AWS.
 - 💬 How to reach me: www.linkedin.com/in/danilru  
 <!--
