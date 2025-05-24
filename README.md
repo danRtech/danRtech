@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🚀 I’m currently working on a web app development. Leveraging Spring Boot, REST, React, PostgreSQL, Spring AI,  ...
+- 🚀 I’m currently working on a web apps development. My tech stack: Java Spring Boot, React (Remix + TypeScript), REST apis / GraphQL, PostgreSQL, Spring AI ...
 - 💬 How to reach me: www.linkedin.com/in/danilru  
 <!--
 **danRtech/danRtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
