@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🚀 I’m a web applications developer. My current tech stack: Java Spring Boot, React (Remix + TypeScript), REST apis / GraphQL, PostgreSQL, Spring AI, and more.
-- 💬 Here is my LinkedIn where you can find more details or get in touch: www.linkedin.com/in/danilru  
+- 💬 My LinkedIn profile: www.linkedin.com/in/danilru  
 <!--
 **danRtech/danRtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
