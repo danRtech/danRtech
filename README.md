@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🚀 I’m a web applications developer.
+- 🚀 Currently I am developing web apps for Shopify.
 - My current tech stack: Java Spring Boot, React (Remix + TypeScript), REST apis / GraphQL, PostgreSQL, Spring AI, and more.
 - 💬 My LinkedIn profile: www.linkedin.com/in/danilru  
 <!--
